@@ -1,0 +1,12 @@
+.block{
+    margin-top: 50px;
+    border: 2px solid darkviolet;
+    border-radius: 32px;
+    width: 250px;
+}
+
+.label{
+    margin-left: 10px;
+    color: darkblue;
+    font-weight: 700;
+}
